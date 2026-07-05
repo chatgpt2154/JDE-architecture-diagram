@@ -1,229 +1,178 @@
-<mxfile host="Electron">
-  <diagram name="Page 3" id="Page_3">
-    <mxGraphModel dx="1144" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="Electron" modified="2026-07-05T12:00:00.000Z" agent="Copilot" etag="updated-with-specs" version="24.6.4" type="device">
+  <diagram name="JDE Architecture - Page 3" id="Page_3">
+    <mxGraphModel dx="1440" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1100" math="0" shadow="1">
       <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <UserObject label="" tags="Background" id="2">
-          <mxCell parent="1" style="vsdxID=509063;fillColor=#FFFFFF;gradientColor=none;shape=stencil(vVPLDoMgEPwajhqEpMWztf9BKiopFbPSav++WHzbpolJvS27szvMwiAaVTkvBSK4MqCvopaJyRE9IUJkkQuQxkaIxohGqQaRgb4XiTuXvEW20U0/2gmN6zv6AWmbCH66RIDx+3x2aA4XW4MVGnq4f+gyHQTPpoXMp6yre7yRlQfacCN1MUMrDpnwLJeXKp7NSlUtRDlJB9PbKVmIb9TDzbYqWa0G7yUkJD5jH6i3KunfdLWaHbQsuccfsVXNejsDx//l/PKLDUarpVIp59RpfWlNm3K2pvEL);dashed=1;dashPattern=12.00 6.00;strokeColor=#7A7A7A;strokeWidth=2;points=[];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="625" width="142" x="945" y="155" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Background" id="3">
-          <mxCell parent="1" style="vsdxID=509061;fillColor=#FFFFFF;gradientColor=none;shape=stencil(vVPLDoMgEPwajhqE1ujZ2v8gFZWUillptX9fLL5t08Sk3pbd2R1mYRCNqpyVHBFcaVBXXotE54ieECGiyDkIbSJEY0SjVAHPQN2LxJ5L1iLb6KYe7YTG9h1c32ubCH7ahIfx+3y2aAYXU4MVGnq46xOb6SB4Ni0MXBp0dYc1onJAaaaFKmZoySDjjuFyUsmyWamqOS8naW96OykK/o16uNlWJavV4L2EhEeXhh+otyrp33S1mh20LLnHH7FVzXo7A8f/5fzyiwlGq6VCSuvUaX1pTZOytqbxCw==);dashed=1;dashPattern=12.00 6.00;strokeColor=#7A7A7A;strokeWidth=2;points=[];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="625" width="220" x="433" y="155" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Background" id="4">
-          <mxCell parent="1" style="vsdxID=509060;fillColor=#FFFFFF;gradientColor=none;shape=stencil(vVPLDoMgEPwajhqE1ujZ2v8gFZWUillptX9fLL5t08Sk3pbd2R1mYRCNqpyVHBFcaVBXXotE54ieECGiyDkIbSJEY0SjVAHPQN2LxJ5L1iLb6KYe7YTG9h1c32ubCH7ahIfx+3y2aAYXU4MVGnq46xOb6SB4Ni0MXBp0dYc1onJAaaaFKmZoySDjjuFyUsmyWamqOS8naW96OykK/o16uNlWJavV4L2EhEeXhh+otyrp33S1mh20LLnHH7FVzXo7A8f/5fzyiwlGq6VCSuvUaX1pTZOytqbxCw==);dashed=1;dashPattern=12.00 6.00;strokeColor=#7A7A7A;strokeWidth=2;points=[];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="625" width="220" x="689" y="155" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Background" id="5">
-          <mxCell parent="1" style="vsdxID=321344;fillColor=#FFFFFF;gradientColor=none;shape=stencil(vVPLDoMgEPwajhqE1ujZ2v8gFZWUillptX9fLL5t08Sk3pbd2R1mYRCNqpyVHBFcaVBXXotE54ieECGiyDkIbSJEY0SjVAHPQN2LxJ5L1iLb6KYe7YTG9h1c32ubCH7ahIfx+3y2aAYXU4MVGnq46xOb6SB4Ni0MXBp0dYc1onJAaaaFKmZoySDjjuFyUsmyWamqOS8naW96OykK/o16uNlWJavV4L2EhEeXhh+otyrp33S1mh20LLnHH7FVzXo7A8f/5fzyiwlGq6VCSuvUaX1pTZOytqbxCw==);dashed=1;dashPattern=12.00 6.00;strokeColor=#7A7A7A;strokeWidth=2;points=[];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="625" width="220" x="183" y="155" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Background" id="6">
-          <mxCell parent="1" style="vsdxID=504431;fillColor=#001594;gradientColor=none;shape=stencil(nVTRcoMgEPwaH70BTgSf0/Q/mASVqdUMmsb+fbHgKGa0nbzB3e7tsiIJnvpa3XTCSD/Y7kM/zHWoE3xLGDNtra0Z3CrBc4KnsrO6st29vfr9TU3IafXZfU0TRs+jhEwcRr79XnIost/Ku4df7tbjqQcUEiQGylwSwD2HjMyXcgqUBxTbKI3oC9xhaMBgjNnRzigQEWsvU4MMg0zGws6eELE0iWWfDt2YdpVRnBBF4EcmGYgs9pgB28SDBPgmHgIkj01mAiSPjR6mk3OgG+V0NXVOI1/8zW4AeSxdFCBFLO2OTcV+Rn/eo821y4HncawupWJNUPbiujYQ0KUeHNnAEIDzZw2aCGJnJhlTNZo+td2gBtO1oS+D6UbZSqdOMS0bVYWmb/UPrW9P5Zc9Hh38BZPkHybdYvn7S9M0/vFY97evhSv5lwbPPw==);strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="96" width="82" x="976" y="348" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Background" id="7">
-          <mxCell parent="1" style="vsdxID=504432;fillColor=#001594;gradientColor=none;shape=stencil(nVTRcoMgEPwaH70BTgSf0/Q/mASVqdUMmsb+fbHgKGa0nbzB3e7tsiIJnvpa3XTCSD/Y7kM/zHWoE3xLGDNtra0Z3CrBc4KnsrO6st29vfr9TU3IafXZfU0TRs+jhEwcRr79XnIost/Ku4df7tbjqQcUEiQGylwSwD2HjMyXcgqUBxTbKI3oC9xhaMBgjNnRzigQEWsvU4MMg0zGws6eELE0iWWfDt2YdpVRnBBF4EcmGYgs9pgB28SDBPgmHgIkj01mAiSPjR6mk3OgG+V0NXVOI1/8zW4AeSxdFCBFLO2OTcV+Rn/eo821y4HncawupWJNUPbiujYQ0KUeHNnAEIDzZw2aCGJnJhlTNZo+td2gBtO1oS+D6UbZSqdOMS0bVYWmb/UPrW9P5Zc9Hh38BZPkHybdYvn7S9M0/vFY97evhSv5lwbPPw==);strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="96" width="82" x="976" y="482" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Background" id="8">
-          <mxCell parent="1" style="vsdxID=508908;fillColor=#00188D;gradientColor=none;shape=stencil(vVTbcoMgEP0aHmW4SJTnNP0PpkFlSsVB2ti/L5a0EammTGf6tpdz2D0sLKDHsRODBASNzppneVFn1wH6AAhRfSetct4C9ATosTFWtta89ufgD2JGztaLeZtPmAIPzQyC3oNHMOTkM/IYwFr1m2AGyWGJFfbJJ+0VixFkAW6/8RiHyA1SRydez58KMamxsMYJp0wf5bSwrSx8qaLRoo1S40XKYRHG20JqDkv8Q+ktJWWdSImUcA45W10Opv+lBqN4MF/+L2aYAU3eRvyQav8c4mn6CN0ZQYLnCJJqR2UJK/I3Qm5Ha/w9xRWDrMwq4D/J3mBTBbmE7JYSwj3RvuZh76ulBA5ZnaMhn5Dd0prgjdvGbJTWYeEu8+sN60NhO9PTBw==);strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="101" width="49" x="87" y="394" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="9" parent="8" style="text;vsdxID=508908;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15.52px;font-family:Tahoma;color:#00188D;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;Deployment&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="21.54" width="85.6" x="-17.91" y="101" as="geometry" />
+        <!-- Title -->
+        <mxCell id="title" value="JDE INFRASTRUCTURE ARCHITECTURE - SERVERS &amp; SPECIFICATIONS" style="text;fontSize=16;fontStyle=bold;fillColor=#FFFFFF;strokeColor=none;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="40" y="20" width="1320" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="10">
-          <mxCell parent="1" style="vsdxID=508935;fillColor=#00188D;gradientColor=none;shape=stencil(vVTbcoMgEP0aHmW4SJTnNP0PpkFlSsVB2ti/L5a0EammTGf6tpdz2D0sLKDHsRODBASNzppneVFn1wH6AAhRfSetct4C9ATosTFWtta89ufgD2JGztaLeZtPmAIPzQyC3oNHMOTkM/IYwFr1m2AGyWGJFfbJJ+0VixFkAW6/8RiHyA1SRydez58KMamxsMYJp0wf5bSwrSx8qaLRoo1S40XKYRHG20JqDkv8Q+ktJWWdSImUcA45W10Opv+lBqN4MF/+L2aYAU3eRvyQav8c4mn6CN0ZQYLnCJJqR2UJK/I3Qm5Ha/w9xRWDrMwq4D/J3mBTBbmE7JYSwj3RvuZh76ulBA5ZnaMhn5Dd0prgjdvGbJTWYeEu8+sN60NhO9PTBw==);strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="101" width="49" x="221" y="610" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="11" parent="10" style="text;vsdxID=508935;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15.52px;font-family:Tahoma;color:#00188D;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;Prod Logic/Batch&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36.8" width="115.2" x="-30.78" y="101" as="geometry" />
+
+        <!-- INFRASTRUCTURE LAYER HEADER -->
+        <mxCell id="infraHeader" value="INFRASTRUCTURE LAYER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;strokeWidth=2;fontStyle=bold;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="40" y="60" width="1320" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="12">
-          <mxCell parent="1" style="vsdxID=508937;fillColor=#00188D;gradientColor=none;shape=stencil(vVTbcoMgEP0aHmW4SJTnNP0PpkFlSsVB2ti/L5a0EammTGf6tpdz2D0sLKDHsRODBASNzppneVFn1wH6AAhRfSetct4C9ATosTFWtta89ufgD2JGztaLeZtPmAIPzQyC3oNHMOTkM/IYwFr1m2AGyWGJFfbJJ+0VixFkAW6/8RiHyA1SRydez58KMamxsMYJp0wf5bSwrSx8qaLRoo1S40XKYRHG20JqDkv8Q+ktJWWdSImUcA45W10Opv+lBqN4MF/+L2aYAU3eRvyQav8c4mn6CN0ZQYLnCJJqR2UJK/I3Qm5Ha/w9xRWDrMwq4D/J3mBTBbmE7JYSwj3RvuZh76ulBA5ZnaMhn5Dd0prgjdvGbJTWYeEu8+sN60NhO9PTBw==);strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="101" width="49" x="320" y="610" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="13" parent="12" style="text;vsdxID=508937;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15.52px;font-family:Tahoma;color:#00188D;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;Prod Batch&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="21.54" width="77.6" x="-14.05" y="101" as="geometry" />
+
+        <!-- One-Click Provisioning Server -->
+        <mxCell id="provServer" value="ONE-CLICK PROVISIONING SERVER&#xa;• OS: Windows Server 2025&#xa;• CPU: 2 cores | Memory: 30 GB&#xa;• Storage: C: 100 GB&#xa;• Inbound Ports: 445, 3000, 3389, 5150, 5985, 8998-8999, 7000-7001, 14501-14502" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBDEFB;strokeColor=#1976D2;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="50" y="100" width="240" height="90" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="14">
-          <mxCell parent="1" style="vsdxID=508938;fillColor=#00188D;gradientColor=none;shape=stencil(vVTbcoMgEP0aHmW4SJTnNP0PpkFlSsVB2ti/L5a0EammTGf6tpdz2D0sLKDHsRODBASNzppneVFn1wH6AAhRfSetct4C9ATosTFWtta89ufgD2JGztaLeZtPmAIPzQyC3oNHMOTkM/IYwFr1m2AGyWGJFfbJJ+0VixFkAW6/8RiHyA1SRydez58KMamxsMYJp0wf5bSwrSx8qaLRoo1S40XKYRHG20JqDkv8Q+ktJWWdSImUcA45W10Opv+lBqN4MF/+L2aYAU3eRvyQav8c4mn6CN0ZQYLnCJJqR2UJK/I3Qm5Ha/w9xRWDrMwq4D/J3mBTBbmE7JYSwj3RvuZh76ulBA5ZnaMhn5Dd0prgjdvGbJTWYeEu8+sN60NhO9PTBw==);strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[[0.5,0,0]];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="101" width="49" x="475" y="610" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="15" parent="14" style="text;vsdxID=508938;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15.52px;font-family:Tahoma;color:#00188D;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;Prod JAS1&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="21.54" width="72.4" x="-11.34" y="101" as="geometry" />
+
+        <!-- Deployment Server -->
+        <mxCell id="deployServer" value="DEPLOYMENT SERVER&#xa;• OS: Windows Server 2025&#xa;• CPU: 2 cores | Memory: 16 GB&#xa;• Storage: C: 100 GB, D: 400 GB&#xa;• Database: Oracle 19.0 (E1local)&#xa;• Inbound Ports: 445, 3389, 5150, 5985, 6017-6022, 14501-14510" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBDEFB;strokeColor=#1976D2;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="310" y="100" width="260" height="90" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="16">
-          <mxCell parent="1" style="vsdxID=508939;fillColor=#00188D;gradientColor=none;shape=stencil(vVTbcoMgEP0aHmW4SJTnNP0PpkFlSsVB2ti/L5a0EammTGf6tpdz2D0sLKDHsRODBASNzppneVFn1wH6AAhRfSetct4C9ATosTFWtta89ufgD2JGztaLeZtPmAIPzQyC3oNHMOTkM/IYwFr1m2AGyWGJFfbJJ+0VixFkAW6/8RiHyA1SRydez58KMamxsMYJp0wf5bSwrSx8qaLRoo1S40XKYRHG20JqDkv8Q+ktJWWdSImUcA45W10Opv+lBqN4MF/+L2aYAU3eRvyQav8c4mn6CN0ZQYLnCJJqR2UJK/I3Qm5Ha/w9xRWDrMwq4D/J3mBTBbmE7JYSwj3RvuZh76ulBA5ZnaMhn5Dd0prgjdvGbJTWYeEu8+sN60NhO9PTBw==);strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[[0.5,0,0]];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="101" width="49" x="568" y="610" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="17" parent="16" style="text;vsdxID=508939;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15.52px;font-family:Tahoma;color:#00188D;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;Prod JAS2&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="21.54" width="72.4" x="-11.34" y="101" as="geometry" />
+
+        <!-- Apache Load Balancer -->
+        <mxCell id="loadBalancer" value="APACHE LOAD BALANCER&#xa;• SSL Termination&#xa;• Round-Robin Distribution&#xa;• Backend: JAS (2x), AIS (2x) Prod&#xa;• Ports: HTTP/HTTPS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBDEFB;strokeColor=#1976D2;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="600" y="100" width="240" height="90" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="18">
-          <mxCell parent="1" style="vsdxID=508940;fillColor=#00188D;gradientColor=none;shape=stencil(vVTbcoMgEP0aHmW4SJTnNP0PpkFlSsVB2ti/L5a0EammTGf6tpdz2D0sLKDHsRODBASNzppneVFn1wH6AAhRfSetct4C9ATosTFWtta89ufgD2JGztaLeZtPmAIPzQyC3oNHMOTkM/IYwFr1m2AGyWGJFfbJJ+0VixFkAW6/8RiHyA1SRydez58KMamxsMYJp0wf5bSwrSx8qaLRoo1S40XKYRHG20JqDkv8Q+ktJWWdSImUcA45W10Opv+lBqN4MF/+L2aYAU3eRvyQav8c4mn6CN0ZQYLnCJJqR2UJK/I3Qm5Ha/w9xRWDrMwq4D/J3mBTBbmE7JYSwj3RvuZh76ulBA5ZnaMhn5Dd0prgjdvGbJTWYeEu8+sN60NhO9PTBw==);strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[[0.5,0,0]];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="101" width="49" x="736" y="610" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="19" parent="18" style="text;vsdxID=508940;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15.52px;font-family:Tahoma;color:#00188D;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;Prod Orch1&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="21.54" width="80.4" x="-15.33" y="101" as="geometry" />
+
+        <!-- CNC Client -->
+        <mxCell id="cncClient" value="CNC CLIENT&#xa;• OS: Windows 2025/2022/11&#xa;• CPU: 2+ cores | Memory: 8 GB&#xa;• Storage: C: 100 GB, D: 100 GB&#xa;• Role: Change Management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBDEFB;strokeColor:#1976D2;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="880" y="100" width="220" height="90" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="20">
-          <mxCell parent="1" style="vsdxID=508941;fillColor=#00188D;gradientColor=none;shape=stencil(vVTbcoMgEP0aHmW4SJTnNP0PpkFlSsVB2ti/L5a0EammTGf6tpdz2D0sLKDHsRODBASNzppneVFn1wH6AAhRfSetct4C9ATosTFWtta89ufgD2JGztaLeZtPmAIPzQyC3oNHMOTkM/IYwFr1m2AGyWGJFfbJJ+0VixFkAW6/8RiHyA1SRydez58KMamxsMYJp0wf5bSwrSx8qaLRoo1S40XKYRHG20JqDkv8Q+ktJWWdSImUcA45W10Opv+lBqN4MF/+L2aYAU3eRvyQav8c4mn6CN0ZQYLnCJJqR2UJK/I3Qm5Ha/w9xRWDrMwq4D/J3mBTBbmE7JYSwj3RvuZh76ulBA5ZnaMhn5Dd0prgjdvGbJTWYeEu8+sN60NhO9PTBw==);strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[[0.5,0,0]];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="101" width="49" x="827" y="610" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="21" parent="20" style="text;vsdxID=508941;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15.52px;font-family:Tahoma;color:#00188D;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;Prod Orch2&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="21.54" width="80.4" x="-15.33" y="101" as="geometry" />
+
+        <!-- NON-PRODUCTION ENVIRONMENT HEADER -->
+        <mxCell id="nonprodHeader" value="NON-PRODUCTION ENVIRONMENT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3E5F5;strokeColor=#7B1FA2;strokeWidth=2;fontStyle=bold;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="40" y="210" width="630" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="22">
-          <mxCell parent="1" style="vsdxID=508942;fillColor=#00188D;gradientColor=none;shape=stencil(vVTbcoMgEP0aHmW4SJTnNP0PpkFlSsVB2ti/L5a0EammTGf6tpdz2D0sLKDHsRODBASNzppneVFn1wH6AAhRfSetct4C9ATosTFWtta89ufgD2JGztaLeZtPmAIPzQyC3oNHMOTkM/IYwFr1m2AGyWGJFfbJJ+0VixFkAW6/8RiHyA1SRydez58KMamxsMYJp0wf5bSwrSx8qaLRoo1S40XKYRHG20JqDkv8Q+ktJWWdSImUcA45W10Opv+lBqN4MF/+L2aYAU3eRvyQav8c4mn6CN0ZQYLnCJJqR2UJK/I3Qm5Ha/w9xRWDrMwq4D/J3mBTBbmE7JYSwj3RvuZh76ulBA5ZnaMhn5Dd0prgjdvGbJTWYeEu8+sN60NhO9PTBw==);strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="101" width="49" x="774" y="199" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="23" parent="22" style="text;vsdxID=508942;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15.52px;font-family:Tahoma;color:#00188D;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;Non-Prod Orch&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="21.54" width="104.8" x="-27.63" y="101" as="geometry" />
+
+        <!-- Non-Prod Database Server -->
+        <mxCell id="nonprodDb" value="NON-PROD DATABASE SERVER&#xa;• OS: Windows Server 2025&#xa;• Database: SQL Server 2022&#xa;• CPU: DBA-defined&#xa;• Memory: DBA-defined&#xa;• Ports: 445, 3389, 5150, 5985, &lt;NEW_PORT&gt;, 14501-14510&#xa;• HA: Single instance" style="shape=cylinder;rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#7B1FA2;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="60" y="550" width="240" height="100" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="24">
-          <mxCell parent="1" style="vsdxID=508943;fillColor=#00188D;gradientColor=none;shape=stencil(vVTbcoMgEP0aHmW4SJTnNP0PpkFlSsVB2ti/L5a0EammTGf6tpdz2D0sLKDHsRODBASNzppneVFn1wH6AAhRfSetct4C9ATosTFWtta89ufgD2JGztaLeZtPmAIPzQyC3oNHMOTkM/IYwFr1m2AGyWGJFfbJJ+0VixFkAW6/8RiHyA1SRydez58KMamxsMYJp0wf5bSwrSx8qaLRoo1S40XKYRHG20JqDkv8Q+ktJWWdSImUcA45W10Opv+lBqN4MF/+L2aYAU3eRvyQav8c4mn6CN0ZQYLnCJJqR2UJK/I3Qm5Ha/w9xRWDrMwq4D/J3mBTBbmE7JYSwj3RvuZh76ulBA5ZnaMhn5Dd0prgjdvGbJTWYeEu8+sN60NhO9PTBw==);strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="101" width="49" x="519" y="199" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="25" parent="24" style="text;vsdxID=508943;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15.52px;font-family:Tahoma;color:#00188D;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;Non-Prod JAS &lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="21.54" width="101.6" x="-26.07" y="101" as="geometry" />
+
+        <!-- Non-Prod Enterprise Server -->
+        <mxCell id="nonprodEnt" value="NON-PROD ENTERPRISE SERVER&#xa;• OS: Windows Server 2025&#xa;• CPU: 4 cores | Memory: 16 GB&#xa;• Storage: C: 100 GB, D: 120 GB, E: 10 GB&#xa;• JDK: 17.0.14 / 1.8.0_491&#xa;• Compiler: VS C++ 2022" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#7B1FA2;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="60" y="420" width="240" height="90" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="26">
-          <mxCell parent="1" style="vsdxID=508947;fillColor=#00188D;gradientColor=none;shape=stencil(vVTbcoMgEP0aHmW4SJTnNP0PpkFlSsVB2ti/L5a0EammTGf6tpdz2D0sLKDHsRODBASNzppneVFn1wH6AAhRfSetct4C9ATosTFWtta89ufgD2JGztaLeZtPmAIPzQyC3oNHMOTkM/IYwFr1m2AGyWGJFfbJJ+0VixFkAW6/8RiHyA1SRydez58KMamxsMYJp0wf5bSwrSx8qaLRoo1S40XKYRHG20JqDkv8Q+ktJWWdSImUcA45W10Opv+lBqN4MF/+L2aYAU3eRvyQav8c4mn6CN0ZQYLnCJJqR2UJK/I3Qm5Ha/w9xRWDrMwq4D/J3mBTBbmE7JYSwj3RvuZh76ulBA5ZnaMhn5Dd0prgjdvGbJTWYeEu8+sN60NhO9PTBw==);strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="101" width="49" x="270" y="199" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="27" parent="26" style="text;vsdxID=508947;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15.52px;font-family:Tahoma;color:#00188D;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;Non-Prod Logic/Batch&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="21.54" width="152" x="-51.28" y="101" as="geometry" />
+
+        <!-- Non-Prod WebLogic JAS -->
+        <mxCell id="nonprodJas" value="NON-PROD WEBLOGIC JAS&#xa;• OS: Windows Server 2025&#xa;• WebLogic: 14.1.2.0.0&#xa;• JDK: 17.0.14&#xa;• CPU: 4 cores | Memory: 16 GB&#xa;• Ports: 8998-8999, 7001-7002" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor:#7B1FA2;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="60" y="300" width="240" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="28">
-          <mxCell parent="1" style="vsdxID=508726;fillColor=#00188D;gradientColor=none;shape=stencil(vVZLcoMwDD0NSzT+Y6/T9B6exkmYUsgY2qS3r6mhifEYShbsjKQnWQ9JVkZ37VlfTEZQ29nm3VzLQ3fO6EtGSFmfjS07d8roPqO7Y2PNyTaf9cF/X3Rv2Z8+mq/ew83jOAUlexRB316CJUj6K3n1AG3fnNYOAEwBKw+wA0KBYF4y2DABiCScoluub2Wb26bTXdnUXo+8rtL2ZHIXMD9W+jRAvaq9GnN5EKPHK1ZlbebCU3dpmQZIQDSwFwgUXWHPERCR5oz93WekjIz+R5co8qe2oisMXSCQOG3schfz9lHqPEpdBKk7lyxkn4F8Mnu0OnvMAJNE+GR18QDAMPBiDUA6Emc4phx4yIic1uOUZDypLwoIhyQrKMI0JR97YgOWeVhkGM3YuooiMnHVZ9N3/5SJBKVbpO+m7KoSiAELReYokiFpC2Vc4EkjR/arG9m5DMv2Phu2aGS0apBNzd3Ine2wxQmuMKgimuLiufTXT/E4/MIjFr/8C6/kP1YFd7gvGseyqvye8qifLiZO5Jcauv8B);strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[[0.5,0,0],[0.5,1,0],[0.5,1,0]];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="101" width="74" x="506" y="396" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="29" parent="28" style="text;vsdxID=508726;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15.52px;font-family:Tahoma;color:#00188D;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;JAS  Load Balancer&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="21.54" width="134" x="-29.7" y="101" as="geometry" />
+
+        <!-- Non-Prod WebLogic AIS -->
+        <mxCell id="nonprodAis" value="NON-PROD WEBLOGIC AIS&#xa;• OS: Windows Server 2025&#xa;• WebLogic: 14.1.2.0.0&#xa;• JDK: 17.0.14&#xa;• CPU: 4 cores | Memory: 8 GB&#xa;• Integration Testing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#7B1FA2;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="60" y="170" width="240" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="30">
-          <mxCell parent="1" style="vsdxID=508948;rotation=1;fillColor=#00188D;gradientColor=none;shape=stencil(vVZLcoMwDD0NSzT+Y6/T9B6exkmYUsgY2qS3r6mhifEYShbsjKQnWQ9JVkZ37VlfTEZQ29nm3VzLQ3fO6EtGSFmfjS07d8roPqO7Y2PNyTaf9cF/X3Rv2Z8+mq/ew83jOAUlexRB316CJUj6K3n1AG3fnNYOAEwBKw+wA0KBYF4y2DABiCScoluub2Wb26bTXdnUXo+8rtL2ZHIXMD9W+jRAvaq9GnN5EKPHK1ZlbebCU3dpmQZIQDSwFwgUXWHPERCR5oz93WekjIz+R5co8qe2oisMXSCQOG3schfz9lHqPEpdBKk7lyxkn4F8Mnu0OnvMAJNE+GR18QDAMPBiDUA6Emc4phx4yIic1uOUZDypLwoIhyQrKMI0JR97YgOWeVhkGM3YuooiMnHVZ9N3/5SJBKVbpO+m7KoSiAELReYokiFpC2Vc4EkjR/arG9m5DMv2Phu2aGS0apBNzd3Ine2wxQmuMKgimuLiufTXT/E4/MIjFr/8C6/kP1YFd7gvGseyqvye8qifLiZO5Jcauv8B);strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[[0.5,0,0],[0.5,1,0],[0.5,1,0]];labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="101" width="74" x="762" y="396" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="31" parent="30" style="text;vsdxID=508948;rotation=1;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=0;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#000000;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15.52px;font-family:Tahoma;color:#00188D;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;Orch Load Balancer&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="21.54" width="136.8" x="-32" y="101" as="geometry" />
+
+        <!-- Non-Prod Dev Clients -->
+        <mxCell id="nonprodDevs" value="DEV CLIENTS (2x)&#xa;• OS: Windows 2025/2022/11&#xa;• CPU: 2 cores | Memory: 8 GB&#xa;• Storage: C: 100 GB, D: 100 GB&#xa;• Tools: VS C++ 2022, SSMS, JDK 17.0.14" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#7B1FA2;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="320" y="550" width="220" height="100" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="32">
-          <mxCell parent="1" style="vsdxID=509065;fillColor=none;gradientColor=none;shape=stencil(UzV2Ls5ILEhVNTIoLinKz04tz0wpyVA1dlE1MsrMy0gtyiwBslSNXVWNndPyi1LTi/JL81Ig/IJEkEoQKze/DGRCBUSfAUiHkUElMs8NojAnMw+nQkMDPEphkmQpJtoJKAqBDIQP0zJzciABhCyPHiJAIUhoGrsCAA==);strokeColor=none;strokeWidth=2;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[];labelBackgroundColor=#FFFFFF;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="32" width="928" x="32" y="32" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="33" parent="32" style="text;vsdxID=509065;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#FFFFFF;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=left;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:left;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:28.22px;font-family:Helvetica;color:#252525;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;Conga JDE servers. 9.2.26&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="32" width="928" as="geometry" />
+
+        <!-- PRODUCTION ENVIRONMENT HEADER -->
+        <mxCell id="prodHeader" value="PRODUCTION ENVIRONMENT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#1B5E20;strokeWidth=2;fontStyle=bold;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="730" y="210" width="630" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="34">
-          <mxCell parent="1" style="vsdxID=509066;fillColor=none;gradientColor=none;shape=stencil(UzV2Ls5ILEhVNTIoLinKz04tz0wpyVA1dlE1MsrMy0gtyiwBslSNXVWNndPyi1LTi/JL81Ig/IJEkEoQKze/DGRCBUSfAUiHkUElMs8NojAnMw+nQkMDPEphkmQpJtoJKAqBDIQP0zJzciABhCyPHiJAIUhoGrsCAA==);strokeColor=none;strokeWidth=2;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[];labelBackgroundColor=#FFFFFF;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="32" width="200" x="183" y="112" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="35" parent="34" style="text;vsdxID=509066;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#FFFFFF;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=left;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:left;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:22.58px;font-family:Helvetica;color:#252525;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;Logic and Batch&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="32" width="200.8" as="geometry" />
+
+        <!-- Prod Database Server -->
+        <mxCell id="prodDb" value="PROD DATABASE SERVER&#xa;• OS: Windows Server 2025&#xa;• Database: SQL Server 2022&#xa;• CPU: DBA-defined&#xa;• Memory: DBA-defined&#xa;• HA/DR: Enabled&#xa;• Ports: 445, 3389, 5150, 5985, &lt;NEW_PORT&gt;, 14501-14510" style="shape=cylinder;rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor=#1B5E20;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="750" y="550" width="240" height="100" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="36">
-          <mxCell parent="1" style="vsdxID=509067;fillColor=none;gradientColor=none;shape=stencil(UzV2Ls5ILEhVNTIoLinKz04tz0wpyVA1dlE1MsrMy0gtyiwBslSNXVWNndPyi1LTi/JL81Ig/IJEkEoQKze/DGRCBUSfAUiHkUElMs8NojAnMw+nQkMDPEphkmQpJtoJKAqBDIQP0zJzciABhCyPHiJAIUhoGrsCAA==);strokeColor=none;strokeWidth=2;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[];labelBackgroundColor=#FFFFFF;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="32" width="200" x="439" y="114" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="37" parent="36" style="text;vsdxID=509067;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#FFFFFF;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=left;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:left;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:22.58px;font-family:Helvetica;color:#252525;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;JAS &lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="32" width="200.8" as="geometry" />
+
+        <!-- Prod Enterprise Server -->
+        <mxCell id="prodEnt" value="PROD ENTERPRISE SERVER&#xa;• OS: Windows Server 2025&#xa;• CPU: 8 cores | Memory: 16 GB&#xa;• Storage: C: 100 GB, D: 120 GB, E: 10 GB&#xa;• JDK: 17.0.14 / 1.8.0_491&#xa;• Production Load" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor=#1B5E20;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="750" y="420" width="240" height="90" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="38">
-          <mxCell parent="1" style="vsdxID=509068;fillColor=none;gradientColor=none;shape=stencil(UzV2Ls5ILEhVNTIoLinKz04tz0wpyVA1dlE1MsrMy0gtyiwBslSNXVWNndPyi1LTi/JL81Ig/IJEkEoQKze/DGRCBUSfAUiHkUElMs8NojAnMw+nQkMDPEphkmQpJtoJKAqBDIQP0zJzciABhCyPHiJAIUhoGrsCAA==);strokeColor=none;strokeWidth=2;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[];labelBackgroundColor=#FFFFFF;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="32" width="200" x="709" y="112" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="39" parent="38" style="text;vsdxID=509068;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#FFFFFF;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=left;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:left;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:22.58px;font-family:Helvetica;color:#252525;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;Orchestrator&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="32" width="200.8" as="geometry" />
+
+        <!-- Prod Batch Server -->
+        <mxCell id="prodBatch" value="PROD BATCH SERVER&#xa;• OS: Windows Server 2025&#xa;• CPU: 6 cores | Memory: 16 GB&#xa;• Storage: C: 100 GB, D: 100 GB, E: 10 GB&#xa;• JDK: 17.0.14&#xa;• Scheduled Jobs &amp; Reports" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor=#1B5E20;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="420" width="240" height="90" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="40">
-          <mxCell parent="1" style="vsdxID=509069;fillColor=none;gradientColor=none;shape=stencil(UzV2Ls5ILEhVNTIoLinKz04tz0wpyVA1dlE1MsrMy0gtyiwBslSNXVWNndPyi1LTi/JL81Ig/IJEkEoQKze/DGRCBUSfAUiHkUElMs8NojAnMw+nQkMDPEphkmQpJtoJKAqBDIQP0zJzciABhCyPHiJAIUhoGrsCAA==);strokeColor=none;strokeWidth=2;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;points=[];labelBackgroundColor=#FFFFFF;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="32" width="200" x="945" y="112" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="41" parent="40" style="text;vsdxID=509069;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;spacingTop=-2;spacingBottom=-2;spacingLeft=-2;spacingRight=-2;labelBackgroundColor=#FFFFFF;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=left;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:left;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:22.58px;font-family:Helvetica;color:#252525;direction:ltr;letter-spacing:0px;line-height:117.64705882352939%;opacity:1&quot;&gt;Database Cluster&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="32" width="200.8" as="geometry" />
+
+        <!-- Prod WebLogic JAS-1 -->
+        <mxCell id="prodJas1" value="PROD WEBLOGIC JAS-1&#xa;• OS: Windows Server 2025&#xa;• WebLogic: 14.1.2.0.0&#xa;• JDK: 17.0.14&#xa;• CPU: 4 cores | Memory: 16 GB&#xa;• Ports: 8998-8999, 7001-7002" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor:#1B5E20;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="750" y="280" width="220" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="42">
-          <mxCell edge="1" parent="1" source="28" style="vsdxID=509051;edgeStyle=none;startArrow=none;endArrow=classic;startSize=5;endSize=5;strokeColor=#808080;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;verticalAlign=middle;html=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=1.00990099009901;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4897959183673469;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="14">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Background" id="43">
-          <mxCell edge="1" parent="1" source="28" style="vsdxID=509052;edgeStyle=none;startArrow=none;endArrow=classic;startSize=5;endSize=5;strokeColor=#808080;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;verticalAlign=middle;html=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=1.00990099009901;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5102040816326531;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="16">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Background" id="44">
-          <mxCell edge="1" parent="1" source="30" style="vsdxID=509053;edgeStyle=none;startArrow=none;endArrow=classic;startSize=5;endSize=5;strokeColor=#808080;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=0;entryX=0.4897959183673469;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="18">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points">
-                <mxPoint x="798" y="498" />
-              </Array>
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Background" id="45">
-          <mxCell edge="1" parent="1" source="30" style="vsdxID=509054;edgeStyle=none;startArrow=none;endArrow=classic;startSize=5;endSize=5;strokeColor=#808080;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=0;entryX=0.5102040816326531;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="20">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points">
-                <mxPoint x="798" y="498" />
-              </Array>
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <mxCell id="46" parent="1" vertex="1">
-          <mxGeometry x="543" y="316" as="geometry" />
+
+        <!-- Prod WebLogic JAS-2 -->
+        <mxCell id="prodJas2" value="PROD WEBLOGIC JAS-2&#xa;• OS: Windows Server 2025&#xa;• WebLogic: 14.1.2.0.0&#xa;• JDK: 17.0.14&#xa;• Active-Active Cluster&#xa;• CPU: 4 cores | Memory: 16 GB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor=#1B5E20;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="280" width="220" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="47">
-          <mxCell edge="1" parent="1" source="28" style="vsdxID=509055;edgeStyle=none;startArrow=none;endArrow=classic;startSize=5;endSize=5;strokeColor=#808080;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="46">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <mxCell id="48" parent="1" vertex="1">
-          <mxGeometry x="799" y="324" as="geometry" />
+
+        <!-- Prod WebLogic AIS-1 -->
+        <mxCell id="prodAis1" value="PROD WEBLOGIC AIS-1&#xa;• OS: Windows Server 2025&#xa;• WebLogic: 14.1.2.0.0&#xa;• JDK: 17.0.14&#xa;• CPU: 4 cores | Memory: 8 GB&#xa;• B2B/EDI Integration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor=#1B5E20;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="750" y="170" width="220" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="49">
-          <mxCell edge="1" parent="1" source="30" style="vsdxID=509056;edgeStyle=none;startArrow=none;endArrow=classic;startSize=5;endSize=5;strokeColor=#808080;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=0;" target="48">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points">
-                <mxPoint x="799" y="396" />
-              </Array>
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
+
+        <!-- Prod WebLogic AIS-2 -->
+        <mxCell id="prodAis2" value="PROD WEBLOGIC AIS-2&#xa;• OS: Windows Server 2025&#xa;• WebLogic: 14.1.2.0.0&#xa;• JDK: 17.0.14&#xa;• Active-Active Cluster&#xa;• CPU: 4 cores | Memory: 8 GB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor=#1B5E20;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="170" width="220" height="80" as="geometry" />
+        </mxCell>
+
+        <!-- CONNECTIONS/ARROWS - Non-Prod -->
+        <mxCell id="conn1" edge="1" parent="1" source="nonprodDb" target="nonprodEnt">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="540" as="sourcePoint" />
+            <mxPoint x="180" y="510" as="targetPoint" />
+          </mxGeometry>
+          <mxEdge style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7B1FA2;strokeWidth=2;startArrow=none;endArrow=classic;" />
+        </mxCell>
+
+        <mxCell id="conn2" edge="1" parent="1" source="nonprodEnt" target="nonprodJas">
+          <mxGeometry relative="1" as="geometry" />
+          <mxEdge style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7B1FA2;strokeWidth=2;startArrow=none;endArrow=classic;" />
+        </mxCell>
+
+        <mxCell id="conn3" edge="1" parent="1" source="nonprodJas" target="nonprodAis">
+          <mxGeometry relative="1" as="geometry" />
+          <mxEdge style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7B1FA2;strokeWidth=2;startArrow=none;endArrow=classic;" />
+        </mxCell>
+
+        <!-- CONNECTIONS/ARROWS - Prod -->
+        <mxCell id="conn4" edge="1" parent="1" source="prodDb" target="prodEnt">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="540" as="sourcePoint" />
+            <mxPoint x="870" y="510" as="targetPoint" />
+          </mxGeometry>
+          <mxEdge style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor:#1B5E20;strokeWidth=2;startArrow=none;endArrow=classic;" />
+        </mxCell>
+
+        <mxCell id="conn5" edge="1" parent="1" source="prodEnt" target="prodJas1">
+          <mxGeometry relative="1" as="geometry" />
+          <mxEdge style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor:#1B5E20;strokeWidth=2;startArrow=none;endArrow=classic;" />
+        </mxCell>
+
+        <mxCell id="conn6" edge="1" parent="1" source="prodBatch" target="prodJas2">
+          <mxGeometry relative="1" as="geometry" />
+          <mxEdge style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor:#1B5E20;strokeWidth=2;startArrow=none;endArrow=classic;" />
+        </mxCell>
+
+        <mxCell id="conn7" edge="1" parent="1" source="prodJas1" target="prodAis1">
+          <mxGeometry relative="1" as="geometry" />
+          <mxEdge style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor:#1B5E20;strokeWidth=2;startArrow=none;endArrow=classic;" />
+        </mxCell>
+
+        <mxCell id="conn8" edge="1" parent="1" source="prodJas2" target="prodAis2">
+          <mxGeometry relative="1" as="geometry" />
+          <mxEdge style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor:#1B5E20;strokeWidth=2;startArrow=none;endArrow=classic;" />
+        </mxCell>
+
+        <mxCell id="conn9" edge="1" parent="1" source="loadBalancer" target="prodJas1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="190" as="sourcePoint" />
+            <mxPoint x="780" y="280" as="targetPoint" />
+          </mxGeometry>
+          <mxEdge style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFA500;strokeWidth=2;startArrow=none;endArrow=classic;dashed=1;" />
+        </mxCell>
+
+        <mxCell id="conn10" edge="1" parent="1" source="loadBalancer" target="prodJas2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="190" as="sourcePoint" />
+            <mxPoint x="1050" y="280" as="targetPoint" />
+          </mxGeometry>
+          <mxEdge style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor:#FFA500;strokeWidth=2;startArrow=none;endArrow=classic;dashed=1;" />
+        </mxCell>
+
+        <!-- LEGEND/SUMMARY -->
+        <mxCell id="legend" value="ARCHITECTURE SUMMARY&#xa;Total Servers: 17 | Total Instances: 16&#xa;Non-Prod: 6 | Prod: 11 | Infrastructure: 1 CNC + 2 DEV&#xa;Total CPU Cores: 41 | Total Memory: 168 GB | Total Storage: ~1,290 GB&#xa;OS: Windows Server 2025 x64 | DB: SQL Server 2022 | WebLogic: 14.1.2.0.0 | JDK: 17.0.14" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFDE7;strokeColor=#F57F17;strokeWidth=2;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="40" y="700" width="1320" height="60" as="geometry" />
+        </mxCell>
+
+        <mxCell id="parent0" />
+        <mxCell id="1" parent="parent0" />
       </root>
     </mxGraphModel>
   </diagram>
